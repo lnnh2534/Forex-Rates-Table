@@ -1,0 +1,9 @@
+{
+  "name": "forex-app",
+  "workspaces": ["frontend", "backend"],
+  "scripts": {
+    "setup": "npm install && npm run build -w frontend",
+    "start": "npm run start -w backend"
+  }
+}
+
