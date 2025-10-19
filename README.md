@@ -1,6 +1,6 @@
 # Forex-Rates-Table
 
-Setup dependencies
+Setup and Build
 ```bash
 npm run setup
 ```
