@@ -8,7 +8,7 @@ const __dirname = path.dirname(__filename);
 
 const app = express();
 const PORT = process.env.PORT || 4000;
-const API_KEY = "QW8QmWIFY4QWNJOMMrJyfqHRDTuE3wC9";
+const API_KEY = "4ICY9LSBB3q4JoyNZnQwf67TvBcZkli9";
 
 app.use(cors());
 app.use(express.json());
